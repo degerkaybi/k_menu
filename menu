@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="tr">
 <head>
-  <meta charset="UTF-8">
+  <meta charset="UTF-8" />
   <style>
     body {
       margin: 0;
@@ -30,9 +30,11 @@
 </head>
 <body>
   <div class="menu">
-    <a href="https://www.notion.so/kaybid/Kaybid-Plak-Volta">Anasayfa</a>
-    <a href="https://open.spotify.com/">Dinle</a>
-    <a href="https://www.instagram.com/kaybid">İletişim</a>
+    <a href="https://example.com/home">HOME</a>
+    <a href="https://example.com/about">ABOUT</a>
+    <a href="https://example.com/works">WORKS</a>
+    <a href="https://example.com/art-ideas">ART &amp; IDEAS</a>
+    <a href="https://example.com/contact">CONTACT</a>
   </div>
 </body>
 </html>
