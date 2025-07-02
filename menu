@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+  <meta charset="UTF-8">
+  <style>
+    body {
+      margin: 0;
+      padding: 10px 20px;
+      background: #111;
+      font-family: 'IBM Plex Mono', monospace;
+    }
+
+    .menu {
+      display: flex;
+      gap: 20px;
+      justify-content: center;
+      font-size: 16px;
+    }
+
+    a {
+      color: #f4f4f4;
+      text-decoration: none;
+      transition: 0.2s;
+    }
+
+    a:hover {
+      color: #e84393;
+    }
+  </style>
+</head>
+<body>
+  <div class="menu">
+    <a href="https://www.notion.so/kaybid/Kaybid-Plak-Volta">Anasayfa</a>
+    <a href="https://open.spotify.com/">Dinle</a>
+    <a href="https://www.instagram.com/kaybid">İletişim</a>
+  </div>
+</body>
+</html>
